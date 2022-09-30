@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607936791697",
+    "project_id": "teamallergy-ef53d",
+    "storage_bucket": "teamallergy-ef53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607936791697:android:c797c9ce601b443f1a2b30",
+        "android_client_info": {
+          "package_name": "com.hyun.allergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607936791697-vatkfanon031gfg9cgofn5do01ss38fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDC7N_Wv45oB_VFUvzyzEOGTdtBJoJX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607936791697-vatkfanon031gfg9cgofn5do01ss38fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
